@@ -1,0 +1,7 @@
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\bin\Debug\SerieII.exe.config
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\bin\Debug\SerieII.exe
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\bin\Debug\SerieII.pdb
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\obj\Debug\SerieII.csproj.AssemblyReference.cache
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\obj\Debug\SerieII.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\obj\Debug\SerieII.exe
+C:\Users\50246\Desktop\SerieII, parcial\SerieII\SerieII\obj\Debug\SerieII.pdb
